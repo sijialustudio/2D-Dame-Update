@@ -1,6 +1,6 @@
 Controls
 
-Move Bubu: Arrow keys / WASD
+Move Bubu: WASD
 
 Summon Dudu (Block Attack): Spacebar
 
